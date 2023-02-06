@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'makelogs',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'makelogs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'makelogs site logo',
           src: 'img/logo.svg',
         },
         items: [

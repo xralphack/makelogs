@@ -81,6 +81,11 @@ const config = {
             label: "Donkey Car",
           },
           {
+            to: "/algorithm",
+            position: "left",
+            label: "Algorithm",
+          },
+          {
             to: "blog",
             position: "left",
             label: "Blog",

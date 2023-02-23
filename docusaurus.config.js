@@ -86,6 +86,11 @@ const config = {
             label: "Algorithm",
           },
           {
+            to: "/embedded-linux",
+            position: "left",
+            label: "Embedded Linux",
+          },
+          {
             to: "blog",
             position: "left",
             label: "Blog",

@@ -91,6 +91,11 @@ const config = {
             label: "Embedded Linux",
           },
           {
+            to: "/fpga",
+            position: "left",
+            label: "FPGA",
+          },
+          {
             to: "blog",
             position: "left",
             label: "Blog",
